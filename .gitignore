@@ -2,3 +2,7 @@
 
 # VS Code
 .vscode
+
+# IntelliJ
+.idea/
+*.iml
